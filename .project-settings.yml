@@ -1,0 +1,6 @@
+extensions: {}
+files: {}
+module-template: ! 'module MODULE_NAME where
+
+'
+targets: {}
