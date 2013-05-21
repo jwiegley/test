@@ -1,6 +1,6 @@
 extensions: {}
-files: {}
+version: 1
 module-template: ! 'module MODULE_NAME where
 
 '
-targets: {}
+modules: {}
